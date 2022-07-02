@@ -399,10 +399,11 @@ header nav .label i {
     .design .image {
         display: none;
     }
-
-    .design .text h2,
     .design .text ul li.two {
-        font-size: 15px;
+        font-size: 12px;
+    }
+     .design .text h2 {
+         font-size: 14px;
     }
 }
 

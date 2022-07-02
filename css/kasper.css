@@ -252,6 +252,8 @@ header nav .label i {
     max-width: 500px;
 }
 
+
+
 @media (max-width: 767px) {
     .landing .text-landing .content {
         max-width: 100%;

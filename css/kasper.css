@@ -42,7 +42,7 @@
     border: 2px solid black;
     border-radius: 50%;
     position: absolute;
-    top: 133%;
+    top: 140%;
     left: 51%;
     transform: translateX(-50%);
     background-color: white;
@@ -520,8 +520,9 @@ header nav .label i {
 .more {
     text-transform: uppercase;
     color: white;
+   color: white;
     background-color: var(--main-color);
-    padding: 15px 30px;
+    padding: 15px 20px;
     border: none;
     position: relative;
     left: 50%;
@@ -563,7 +564,7 @@ header nav .label i {
 }
 
 .text-vedio button {
-    padding: 10px 15px;
+   padding: 15px 30px;
     margin-top: 13px;
     background-color: black;
     color: white;
@@ -872,8 +873,7 @@ header nav .label i {
     font-size: 25px;
     font-weight: normal;
     text-transform: uppercase;
-    color: #777;
-    margin: 10px 0px 20px;
+    margin: 10px 0px 30px;
 }
 
 .pricing .plans .box .price span {
@@ -884,8 +884,8 @@ header nav .label i {
 .pricing .plans .box .price span::before {
     content: "$";
     position: relative;
-    top: -31px;
-    left: -7px;
+    top: -42px;
+    left: -20px;
     font-size: 30px;
     font-weight: normal;
 }
@@ -894,9 +894,9 @@ header nav .label i {
     content: "/MO";
     font-weight: 600;
     position: relative;
-    bottom: -17px;
-    left: 7px;
-    font-size: 20px;
+    bottom: 0px;
+    left: 13px;
+    font-size: 19px;
 }
 
 .pricing .plans .box ul {
@@ -909,8 +909,8 @@ header nav .label i {
 }
 
 .pricing .box .buy a {
-    text-decoration: none;
-    padding: 20px;
+     text-decoration: none;
+    padding: 15px;
     border-color: var(--main-color);
     border-style: solid;
     border-width: 1px;
@@ -918,6 +918,7 @@ header nav .label i {
     display: block;
     width: 119px;
     margin: 32px auto;
+    color: black;
 }
 
 .pricing .box .buy a:hover {
@@ -931,9 +932,9 @@ header nav .label i {
 }
 
 .pricing .contact-us {
-    text-decoration: none;
+  text-decoration: none;
     text-align: center;
-    padding: 21px;
+    padding: 15px 30px;
     margin: 18px auto 16px;
     border-color: var(--main-color);
     border-width: 1px;
@@ -1000,7 +1001,7 @@ header nav .label i {
 }
 
 .subscribe form input[type="email"] {
-    padding: 20px 20px 20px 50px;
+     padding: 15px 15px 15px 50px;
     border: 1px solid white;
     border-right: none;
     background: none;
@@ -1009,7 +1010,7 @@ header nav .label i {
 }
 
 .subscribe form input[type="submit"] {
-    padding: 20px 23px;
+   padding: 15px 20px;
     border-left: none;
     background-color: var(--main-color);
     color: white;
